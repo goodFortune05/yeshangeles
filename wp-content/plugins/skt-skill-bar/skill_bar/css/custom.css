@@ -1,0 +1,6 @@
+.skillbar-title span {
+    display: block;
+    background: none;
+    height: 35px;
+}
+.skillbar-title{background: none !important;}
